@@ -46,7 +46,7 @@
               </ul>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#"><ion-icon class="fs-4" name="cart-outline"></ion-icon></a>
+              <a class="nav-link" href="carrinho.php"><ion-icon class="fs-4" name="cart-outline"></ion-icon></a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="usuario.php"><ion-icon class="fs-4" name="person-outline"></ion-icon></a>
@@ -147,8 +147,8 @@
         <p class="card-text">Adicione ingredientes de sua preferência nas observações do pedido, por apenas R$ 2,00 cada.</p>
       </div>
       <div class="card-footer">
-        <small class="text-muted"><a href="" class="btn btn-primary">Adicionar</a></small>
-        <small class="text-muted"><a href="" class="btn btn-secondary">Remover</a></small>
+        <small class="text-muted"><a href="usuario.php" class="btn btn-primary">Adicionar</a></small>
+        <small class="text-muted"><a href="usuario.php" class="btn btn-secondary">Remover</a></small>
       </div>
     </div>
   </div>
@@ -160,8 +160,8 @@
         <p class="card-text">Tamanho médio</p>
       </div>
       <div class="card-footer">
-        <small class="text-muted"><a href="" class="btn btn-primary">Adicionar</a></small>
-        <small class="text-muted"><a href="" class="btn btn-secondary">Remover</a></small>
+        <small class="text-muted"><a href="usuario.php" class="btn btn-primary">Adicionar</a></small>
+        <small class="text-muted"><a href="usuario.php" class="btn btn-secondary">Remover</a></small>
       </div>
     </div>
   </div>
@@ -173,8 +173,8 @@
         <p class="card-text">Pedaço de 70g</p>
       </div>
       <div class="card-footer">
-        <small class="text-muted"><a href="" class="btn btn-primary">Adicionar</a></small>
-        <small class="text-muted"><a href="" class="btn btn-secondary">Remover</a></small>
+        <small class="text-muted"><a href="usuario.php" class="btn btn-primary">Adicionar</a></small>
+        <small class="text-muted"><a href="usuario.php" class="btn btn-secondary">Remover</a></small>
       </div>
     </div>
   </div>
@@ -188,8 +188,8 @@
         <p class="card-text">Fatia de 60g</p>
       </div>
       <div class="card-footer">
-        <small class="text-muted"><a href="" class="btn btn-primary">Adicionar</a></small>
-        <small class="text-muted"><a href="" class="btn btn-secondary">Remover</a></small>
+        <small class="text-muted"><a href="usuario.php" class="btn btn-primary">Adicionar</a></small>
+        <small class="text-muted"><a href="usuario.php" class="btn btn-secondary">Remover</a></small>
       </div>
     </div>
   </div>
@@ -201,8 +201,8 @@
         <p class="card-text">Tamanho médio</p>
       </div>
       <div class="card-footer">
-        <small class="text-muted"><a href="" class="btn btn-primary">Adicionar</a></small>
-        <small class="text-muted"><a href="" class="btn btn-secondary">Remover</a></small>
+        <small class="text-muted"><a href="usuario.php" class="btn btn-primary">Adicionar</a></small>
+        <small class="text-muted"><a href="usuario.php" class="btn btn-secondary">Remover</a></small>
       </div>
     </div>
   </div>
@@ -214,8 +214,8 @@
         <p class="card-text">Tamanho pequeno</p>
       </div>
       <div class="card-footer">
-        <small class="text-muted"><a href="" class="btn btn-primary">Adicionar</a></small>
-        <small class="text-muted"><a href="" class="btn btn-secondary">Remover</a></small>
+        <small class="text-muted"><a href="usuario.php" class="btn btn-primary">Adicionar</a></small>
+        <small class="text-muted"><a href="usuario.php" class="btn btn-secondary">Remover</a></small>
       </div>
     </div>
   </div>
