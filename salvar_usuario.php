@@ -83,11 +83,11 @@ $dados = filter_input_array(INPUT_POST, FILTER_DEFAULT);
              
              }else{
                 print "<script>alert('Ocorreu um erro, não foi possível cadastrar!');</script>";
-                print "<script>location.href='?page=login'</script>";
+                print "<script>location.href='pagina_login.php'</script>";
             }
             if($cad_loja==true){
                 print "<script>alert('Novo usuário cadastrado com sucesso!');</script>";
-                print "<script>location.href='?page=login'</script>";
+                print "<script>location.href='pagina_login.php'</script>";
             }
             
             
@@ -107,10 +107,10 @@ $dados = filter_input_array(INPUT_POST, FILTER_DEFAULT);
 
             if($res==true){
                 print "<script>alert('Usuário editado com sucesso!');</script>";
-                print "<script>location.href='?page=login'</script>";
+                print "<script>location.href='pagina_login.php'</script>";
             }else{
                 print "<script>alert('Ocorreu um erro, não foi possível editar!');</script>";
-                print "<script>location.href='?page=login'</script>";
+                print "<script>location.href='pagina_login.php'</script>";
             }
 
             break; 
@@ -121,10 +121,10 @@ $dados = filter_input_array(INPUT_POST, FILTER_DEFAULT);
 
             if($res==true){
                 print "<script>alert('Usuário excluído com sucesso!');</script>";
-                print "<script>location.href='?page=login'</script>";
+                print "<script>location.href='pagina_login.php'</script>";
             }else{
                 print "<script>alert('Ocorreu um erro, não foi possível excluir!');</script>";
-                print "<script>location.href='?page=login'</script>";
+                print "<script>location.href='pagina_login.php'</script>";
             }
 
                 break; 

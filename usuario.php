@@ -54,7 +54,7 @@
             </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                 <li><a class="dropdown-item" aria-current="page" href="?page=tipo">Novo Usuário</a></li>
-                <li><a class="dropdown-item" aria-current="page" href="usuario.php">Login</a></li>
+                <li><a class="dropdown-item" aria-current="page" href="pagina_login.php">Login</a></li>
               <!-- <li><a class="dropdown-item" aria-current="page" href="?page=listar">Listar Usuário</a></li>-->
               </ul>
             </li>
@@ -96,28 +96,7 @@
           print "<h4>Seja bem-vindo(a)!</h4>";
         }
       ?>
-      
-<div class="container">
 
-<div class="row">
-    <div class="col-lg-4 offset-lg-4">
-        <formn action="?page=login" method="POST">
-            <div class="mb-3">
-            <h1 class="mb-4 mt-4">Login</h1>
-                <label>Usuário</label>
-                <input type="text" name="email" class="form-control" placeholder="E-mail">
-            </div>
-            <div class="mb-3">
-                <label>Senha</label>
-                <input type="password" name="senha" class="form-control">
-            </div>
-            <div class="mb-3">
-                <button type="submit" class="btn btn-primary">Entrar</button>
-            </div>
-        </formn>
-    </div>
-</div>
-</div>
     </div>
   </div>
 </div>
