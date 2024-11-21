@@ -2,7 +2,7 @@
 session_start();
 
 if(empty($_POST) or (empty($_POST["email"]) or (empty($_POST["senha"])))){
-    print "<script>location.href='usuario.php';</spript>";
+    print "<script>location.href='index.php';</spript>";
 }
 
 include('config.php');
@@ -24,6 +24,3 @@ if($qtd > 0){
     print "<script>alert('Usuário e/ou senha incorreto(s)!')</script>";
     print "<script>location.href='index.php';</script>";
 }
-
-
-?>

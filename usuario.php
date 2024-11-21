@@ -49,7 +49,7 @@
               <a class="nav-link" href="carrinho.php"><ion-icon class="fs-4" name="cart-outline"></ion-icon></a>
             </li>
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" href="usuario.php" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              <a class="nav-link dropdown-toggle" href="pagina_login.php" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
               <ion-icon class="fs-4" name="person-outline"></ion-icon>
             </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
